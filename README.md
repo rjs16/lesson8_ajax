@@ -4,19 +4,17 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 4 2017
 
 ### Student Name:  
-(First and Last Name)
+Rachel Stein
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+Building an application that allows the user to gather information about movies, using jQuary and AJAX.
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://rjs16.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Application-programming interface (API) is a set of programming and standards, companies allow access to the API so that others can utilizer their service.
+2. Asychronous Havascript and XML (AJAX)allows data to load from the server. Helps to create a more effectiveand interactive web applications.
+3. JavaScript Object Notation and XML (JSON) helps to transfer data between the server and the web application.
